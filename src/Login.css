@@ -1,0 +1,37 @@
+/* src/components/Login.css */
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #1DB954 0%, #191414 100%);
+}
+
+.login-card {
+  background-color: #282828;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.login-title {
+  margin-bottom: 20px;
+  font-size: 2rem;
+}
+
+.login-button {
+  background-color: #1DB954;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 24px;
+  color: #ffffff;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.login-button:hover {
+  background-color: #17a44c;
+}

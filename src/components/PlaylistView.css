@@ -1,0 +1,21 @@
+/* src/components/PlaylistView.css */
+
+.playlist-container {
+    /* Already defined in App.css */
+}
+
+.playlist-header {
+    /* Defined earlier in App.css */
+}
+
+.track-item {
+    /* Defined earlier in App.css */
+}
+
+.track-details {
+    /* Defined earlier in App.css */
+}
+
+.track-name, .track-description, .track-actions {
+    /* Defined earlier in App.css */
+}
